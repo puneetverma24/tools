@@ -1,1 +1,3 @@
-# I am listing usefull tolls
+## I am listing usefull tolls
+
+* Check DNS propogation https://dnschecker.org/
